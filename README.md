@@ -1,2 +1,2 @@
-# programacion-1
+# programacion-c
 ejercicios y tareas de programacion
